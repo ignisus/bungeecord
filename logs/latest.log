@@ -1,0 +1,102 @@
+[00:07:36] [Netty epoll Worker #18/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[00:12:01] [Netty epoll Worker #8/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[00:19:19] [Netty epoll Worker #24/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[00:28:34] [Netty epoll Worker #12/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[01:02:07] [Netty epoll Worker #16/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[01:28:27] [Netty epoll Worker #13/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[01:30:00] [Netty epoll Worker #22/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /141.98.7.36:21003: read timed out
+[02:07:23] [Netty epoll Worker #21/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[02:20:16] [Netty epoll Worker #36/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[03:15:05] [Netty epoll Worker #32/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[03:19:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m----------------------------------------------[0;39m
+[03:19:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m    +==================+[0;39m
+[03:19:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m    |   SkinsRestorer  |[0;39m
+[03:19:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m    +==================+[0;39m
+[03:19:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m----------------------------------------------[0;39m
+[03:19:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [36;1m    Current version: [31;1m15.0.3[0;39m
+[03:19:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [36;1m    Commit: [32;1maa377c1[0;39m
+[03:19:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [36;1m    New version: [31;1m15.0.4[0;39m
+[03:19:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [33;1m    A new version is available! Download it at:[0;39m
+[03:19:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [33;1m    https://github.com/SkinsRestorer/SkinsRestorerX/releases/download/15.0.4/SkinsRestorer.jar[0;39m
+[03:19:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m----------------------------------------------[0;39m
+[03:29:52] [Netty epoll Worker #24/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[04:29:53] [Netty epoll Worker #24/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[04:37:09] [Netty epoll Worker #36/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[05:41:11] [Netty epoll Worker #23/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[05:53:51] [Netty epoll Worker #37/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[06:46:25] [Netty epoll Worker #25/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[07:03:23] [Netty epoll Worker #31/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[07:15:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m----------------------------------------------[0;39m
+[07:15:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m    +==================+[0;39m
+[07:15:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m    |   SkinsRestorer  |[0;39m
+[07:15:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m    +==================+[0;39m
+[07:15:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m----------------------------------------------[0;39m
+[07:15:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [36;1m    Current version: [31;1m15.0.3[0;39m
+[07:15:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [36;1m    Commit: [32;1maa377c1[0;39m
+[07:15:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [36;1m    New version: [31;1m15.0.4[0;39m
+[07:15:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [33;1m    A new version is available! Download it at:[0;39m
+[07:15:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [33;1m    https://github.com/SkinsRestorer/SkinsRestorerX/releases/download/15.0.4/SkinsRestorer.jar[0;39m
+[07:15:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m----------------------------------------------[0;39m
+[08:43:46] [Netty epoll Worker #39/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[09:49:32] [Netty epoll Worker #2/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[10:01:42] [Netty epoll Worker #10/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[10:48:17] [Netty epoll Worker #34/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[11:03:26] [Netty epoll Worker #26/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /185.31.106.37:50336 has disconnected
+[11:11:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m----------------------------------------------[0;39m
+[11:11:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m    +==================+[0;39m
+[11:11:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m    |   SkinsRestorer  |[0;39m
+[11:11:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m    +==================+[0;39m
+[11:11:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m----------------------------------------------[0;39m
+[11:11:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [36;1m    Current version: [31;1m15.0.3[0;39m
+[11:11:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [36;1m    Commit: [32;1maa377c1[0;39m
+[11:11:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [36;1m    New version: [31;1m15.0.4[0;39m
+[11:11:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [33;1m    A new version is available! Download it at:[0;39m
+[11:11:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [33;1m    https://github.com/SkinsRestorer/SkinsRestorerX/releases/download/15.0.4/SkinsRestorer.jar[0;39m
+[11:11:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m----------------------------------------------[0;39m
+[11:14:18] [Netty epoll Worker #27/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[12:00:36] [Netty epoll Worker #3/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[12:13:29] [Netty epoll Worker #18/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[12:53:18] [Netty epoll Worker #32/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[13:03:03] [Netty epoll Worker #25/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] eldiosx (/79.117.241.18:52242) has connected
+[13:03:04] [Netty epoll Worker #25/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] eldiosx -> lobby has connected
+[13:04:01] [Netty epoll Worker #25/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] eldiosx -> survival has connected
+[13:04:01] [Netty epoll Worker #25/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] eldiosx -> lobby has disconnected
+[13:04:48] [Netty epoll Worker #25/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] eldiosx -> lobby has connected
+[13:04:48] [Netty epoll Worker #25/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] eldiosx -> survival has disconnected
+[13:05:00] [Netty epoll Worker #25/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] eldiosx -> creative has connected
+[13:05:01] [Netty epoll Worker #25/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] eldiosx -> lobby has disconnected
+[13:09:11] [Netty epoll Worker #25/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] eldiosx -> lobby has connected
+[13:09:11] [Netty epoll Worker #25/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] eldiosx -> creative has disconnected
+[13:09:24] [Netty epoll Worker #25/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] eldiosx -> creative has connected
+[13:09:24] [Netty epoll Worker #25/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] eldiosx -> lobby has disconnected
+[13:09:33] [Netty epoll Worker #25/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] eldiosx -> lobby has connected
+[13:09:33] [Netty epoll Worker #25/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] eldiosx -> creative has disconnected
+[13:11:10] [Netty epoll Worker #25/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] eldiosx (/79.117.241.18:52242) has disconnected
+[13:11:10] [Netty epoll Worker #25/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] eldiosx -> lobby has disconnected
+[13:13:43] [Netty epoll Worker #21/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[13:19:30] [Netty epoll Worker #25/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[14:22:47] [Netty epoll Worker #5/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /141.98.7.36:21009: read timed out
+[14:42:48] [Netty epoll Worker #32/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[14:52:42] [Netty epoll Worker #25/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[15:05:48] [Netty epoll Worker #0/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[15:07:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m----------------------------------------------[0;39m
+[15:07:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m    +==================+[0;39m
+[15:07:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m    |   SkinsRestorer  |[0;39m
+[15:07:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m    +==================+[0;39m
+[15:07:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m----------------------------------------------[0;39m
+[15:07:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [36;1m    Current version: [31;1m15.0.3[0;39m
+[15:07:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [36;1m    Commit: [32;1maa377c1[0;39m
+[15:07:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [36;1m    New version: [31;1m15.0.4[0;39m
+[15:07:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [33;1m    A new version is available! Download it at:[0;39m
+[15:07:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [33;1m    https://github.com/SkinsRestorer/SkinsRestorerX/releases/download/15.0.4/SkinsRestorer.jar[0;39m
+[15:07:41] [SkinsRestorer - Task Executor #3/INFO] [skinsrestorer]: [32;1m----------------------------------------------[0;39m
+[15:58:42] [Netty epoll Worker #26/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[16:11:32] [Netty epoll Worker #0/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[16:50:57] [Netty epoll Worker #7/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[17:10:32] [Netty epoll Worker #32/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[17:23:39] [Netty epoll Worker #8/ERROR] [com.velocitypowered.proxy.connection.MinecraftConnection]: [initial connection] /51.15.34.47:61000: read timed out
+[17:26:16] [Thread-2/INFO] [com.velocitypowered.proxy.VelocityServer]: Shutting down the proxy...
+[17:26:16] [Thread-2/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Closing endpoint /0.0.0.0:25577
+[17:26:16] [Thread-2/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Closing endpoint /0.0.0.0:25565
+[17:26:16] [Velocity Async Event Executor - #14/INFO] [xyz.kyngs.librelogin.lib.hikari.HikariDataSource]: LibreLogin SQLite Pool - Shutdown initiated...
+[17:26:16] [Velocity Async Event Executor - #14/INFO] [xyz.kyngs.librelogin.lib.hikari.HikariDataSource]: LibreLogin SQLite Pool - Shutdown completed.
