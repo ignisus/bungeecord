@@ -1,3 +1,4 @@
 logs/
 forwarding.secret
 pem.key
+plugins/floodgate/key.pem
