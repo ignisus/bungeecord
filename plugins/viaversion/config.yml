@@ -50,8 +50,8 @@ velocity-ping-save: true
 # It will fall back to the default option if none found.
 velocity-servers:
   default: 393
-  limbo: 764
-  creative: 764
+  limbo: 765
+  creative: 765
   lobby: 758
   survival: 765
   mods: 758
