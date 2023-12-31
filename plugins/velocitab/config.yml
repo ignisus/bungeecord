@@ -10,11 +10,16 @@ check_for_updates: true
 # List multiple headers and set update_rate to the number of ticks between frames for basic animations
 headers:
   default:
-  - '&rainbow&Running Velocitab by William278'
+  - ""
+  - '&rainbow&Running Ignisus Land'
+  - ""
+  - "»»——————— <28> ———————««"
 # Footer(s) to display below the TAB list for each server group, same as headers.
 footers:
   default:
-  - '[There are currently %players_online%/%max_players_online% players online](gray)'
+  - "»»——————— <28> ———————««"
+  - ""
+  - '[%players_online%/%max_players_online% players](gray)'
 formats:
   default: '&7[%server%] &f%prefix%%username%'
 # Nametag(s) to display above players' heads for each server group. Set to empty to disable.
