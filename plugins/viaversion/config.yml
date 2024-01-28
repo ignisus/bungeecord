@@ -24,7 +24,7 @@ block-disconnect-msg: You are using an unsupported Minecraft version!
 # If you use ProtocolLib, we can't reload without kicking the players.
 # (We don't suggest using reload either, use a plugin manager)
 # You can customise the message we kick people with if you use ProtocolLib here.
-reload-disconnect-msg: Server reload, please rejoin!
+reload-disconnect-msg: Reiniciando!
 # We warn when there's an error converting item and block data over versions, should we suppress these? (Only suggested if spamming)
 suppress-conversion-warnings: false
 #
@@ -49,12 +49,12 @@ velocity-ping-save: true
 # You can find protocol ids on https://wiki.vg/Protocol_version_numbers
 # It will fall back to the default option if none found.
 velocity-servers:
-  default: 393
+  default: 758
   limbo: 765
   creative: 765
   lobby: 758
   survival: 765
-  mods: 758
+  mods: 765
 #
 #----------------------------------------------------------#
 #                  GLOBAL PACKET LIMITER                   #

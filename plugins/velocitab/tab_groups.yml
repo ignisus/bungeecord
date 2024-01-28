@@ -1,0 +1,30 @@
+# ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+# ┃      Velocitab TabGroups     ┃
+# ┃    Developed by William278   ┃
+# ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+# ┣╸ Information: https://william278.net/project/velocitab
+# ┗╸ Documentation: https://william278.net/docs/velocitab
+
+groups:
+- name: default
+  headers:
+  - '&rainbow&Running Velocitab by William278'
+  footers:
+  - '[There are currently %players_online%/%max_players_online% players online](gray)'
+  format: '&7[%server%] &f%prefix%%username%'
+  nametag:
+    prefix: '&f%prefix%'
+    suffix: '&f%suffix%'
+  servers:
+  - lobby
+  - survival
+  - creative
+  - minigames
+  - skyblock
+  - prison
+  - hub
+  sorting_placeholders:
+  - '%role_weight%'
+  - '%username_lower%'
+  header_footer_update_rate: 1000
+  placeholder_update_rate: 1000

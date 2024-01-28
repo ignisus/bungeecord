@@ -64,7 +64,7 @@ kick-existing-players = false
 #                  description and mod list.
 # - "all":         Uses the backend server's response as the proxy response. The Velocity
 #                  configuration is used if no servers could be contacted.
-ping-passthrough = "ALL"
+ping-passthrough = "description"
 
 # If not enabled (default is true) player IP addresses will be replaced by <ip address withheld> in logs
 enable-player-address-logging = true
@@ -110,7 +110,7 @@ read-timeout = 30000
 
 # Enables compatibility with HAProxy's PROXY protocol. If you don't know what this is for, then
 # don't enable it.
-haproxy-protocol = false
+haproxy-protocol = true
 
 # Enables TCP fast open support on the proxy. Requires the proxy to run on Linux.
 tcp-fast-open = true
@@ -148,4 +148,4 @@ port = 25577
 map = "Velocity"
 
 # Whether plugins should be shown in query response by default or not
-show-plugins = false
+show-plugins = true
