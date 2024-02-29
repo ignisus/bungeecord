@@ -21,7 +21,7 @@ force-key-authentication = true
 # If client's ISP/AS sent from this proxy is different from the one from Mojang's
 # authentication server, the player is kicked. This disallows some VPN and proxy
 # connections but is a weak form of protection.
-prevent-client-proxy-connections = false
+prevent-client-proxy-connections = true
 
 # Should we forward IP addresses and other data to backend servers?
 # Available options:
@@ -34,7 +34,7 @@ prevent-client-proxy-connections = false
 #                  unable to implement network level firewalling (on a shared host).
 # - "modern":      Forward player IPs and UUIDs as part of the login process using
 #                  Velocity's native forwarding. Only applicable for Minecraft 1.13 or higher.
-player-info-forwarding-mode = "MODERN"
+player-info-forwarding-mode = "modern"
 
 # If you are using modern or BungeeGuard IP forwarding, configure a file that contains a unique secret here.
 # The file is expected to be UTF-8 encoded and not empty.
@@ -45,7 +45,7 @@ forwarding-secret-file = "forwarding.secret"
 # 
 # If your network runs one modpack consistently, consider using ping-passthrough = "mods"
 # instead for a nicer display in the server list.
-announce-forge = true
+announce-forge = false
 
 # If enabled (default is false) and the proxy is in online mode, Velocity will kick
 # any existing player who is online if a duplicate connection attempt is made.
@@ -64,7 +64,7 @@ kick-existing-players = false
 #                  description and mod list.
 # - "all":         Uses the backend server's response as the proxy response. The Velocity
 #                  configuration is used if no servers could be contacted.
-ping-passthrough = "description"
+ping-passthrough = "DISABLED"
 
 # If not enabled (default is true) player IP addresses will be replaced by <ip address withheld> in logs
 enable-player-address-logging = true
@@ -80,7 +80,7 @@ creative = "localhost:25570"
 
 # In what order we should try servers when a player logs in or is kicked from a server.
 try = [
-    "limbo",
+    "limbo"
 ]
 
 [forced-hosts]
@@ -88,6 +88,7 @@ try = [
 "lobby.example.com" = [
     "limbo"
 ]
+
 
 [advanced]
 # How large a Minecraft packet has to be before we compress it. Setting this to zero will
@@ -110,7 +111,7 @@ read-timeout = 30000
 
 # Enables compatibility with HAProxy's PROXY protocol. If you don't know what this is for, then
 # don't enable it.
-haproxy-protocol = true
+haproxy-protocol = false
 
 # Enables TCP fast open support on the proxy. Requires the proxy to run on Linux.
 tcp-fast-open = true
@@ -139,7 +140,7 @@ log-player-connections = true
 
 [query]
 # Whether to enable responding to GameSpy 4 query responses or not.
-enabled = true
+enabled = false
 
 # If query is enabled, on what port should the query protocol listen on?
 port = 25577
@@ -148,4 +149,4 @@ port = 25577
 map = "Velocity"
 
 # Whether plugins should be shown in query response by default or not
-show-plugins = true
+show-plugins = false
