@@ -74,9 +74,8 @@ enable-player-address-logging = true
 # represents the IP address of the server to connect to.
 limbo = "localhost:25566"
 lobby = "localhost:25567"
-survival = "localhost:25568"
+vanilla = "localhost:25568"
 mods = "localhost:25569"	
-creative = "localhost:25570"
 
 # In what order we should try servers when a player logs in or is kicked from a server.
 try = [

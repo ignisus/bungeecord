@@ -8,15 +8,46 @@
 groups:
 - name: default
   headers:
-  - '&rainbow&Running Velocitab by William278'
+  - \n&rainbow& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:2& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:4& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:6& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:8& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:10& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:12& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:14& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:16& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:18& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:20& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:22& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:24& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:26& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:28& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:30& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:32& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:34& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:36& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:38& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:40& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:42& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:44& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:46& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:48& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:50& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:52& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:54& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:56& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:58& 🔥 IgnisusLand 🔥 \n
+  - \n&rainbow:60& 🔥 IgnisusLand 🔥 \n
   footers:
-  - '[There are currently %players_online%/%max_players_online% players online](gray)'
+  - ' '
   format: '&7[%server%] &f%prefix%%username%'
   nametag:
     prefix: '&f%prefix%'
     suffix: '&f%suffix%'
   servers:
   - lobby
+  - mods
   - survival
   - creative
   - minigames
@@ -26,5 +57,5 @@ groups:
   sorting_placeholders:
   - '%role_weight%'
   - '%username_lower%'
-  header_footer_update_rate: 1000
-  placeholder_update_rate: 1000
+  header_footer_update_rate: 100
+  placeholder_update_rate: 5000
